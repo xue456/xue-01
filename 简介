@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>薛腾飞 - 个人简历</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+  </head>
+  <body
+    oncontextmenu="return false;"
+    onselectstart="return false;"
+    unselectable="on"
+    ondragstart="return false;"
+  >
+    <section class="page_one" id="page1">
+      <div class="cen_con">
+        <div class="cen_text">
+          <h2>业精于勤；荒于嬉；行成于思；毁于随。</h2>
+          <hr />
+          <h3>薛腾飞</h3>
+          <h3>创维光伏业务员</h3>
+          <h3>980187299@qq.com | 13772771234</h3>
+          <h3>在职陕西 ▣ 韩城</h3>
+        </div>
+      </div>
+      <div class="scissors" style="border-top: 1px dashed orange"></div>
+      <div class="myinfo">
+        <table>
+          <tbody>
+            <tr>
+              <td>姓名 | 薛腾飞</td>
+              <td>手机 | 13772771234</td>
+            </tr>
+            <tr>
+              <td>性别 | 男</td>
+              <td>邮箱 | 980187299@qq.com</td>
+            </tr>
+            <tr>
+              <td>出生 | 1994.07.28</td>
+              <td>QQ号 | 980187299</td>
+            </tr>
+            <tr>
+              <td>居住 | 韩城市涧南村</td>
+              <td>户籍 | 陕西省韩城市</td>
+            </tr>
+            <tr>
+              <td>学历 | 专科</td>
+              <td>学校 | 广东科技职业学院</td>
+            </tr>
+            <tr>
+              <td>专业 | 计算机应用</td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="down_arrow">
+        <a class="scroll"><span></span></a>
+      </div>
+    </section>
+    <section class="page_three" id="page3">
+      <div class="con_wrap">
+        <div class="tit_wrap">
+          <div class="scissors" style="border-top: 1px dashed orange"></div>
+          <h2>长年累月后,精进又向前。唯有勤学练,擅长最优先。</h2>
+        </div>
+      </div>
+      <div class="down_arrow">
+        <a class="scroll"><span></span></a>
+      </div>
+    </section>
+    <section class="page_five" id="page5">
+      <div class="con_wrap">
+        <div class="tit_wrap">
+          <div class="scissors" style="border-top: 1px dashed orange"></div>
+          <h2>
+            生命,需要我们去努力。年轻时,我们要努力锻炼自己的能力,掌握知识、掌握技能、掌握必要的社会经验。
+          </h2>
+        </div>
+        <div class="work_con">
+          <div class="programe"></div>
+        </div>
+      </div>
+    </section>
+  </body>
+  <script type="text/javascript" src="js/main.js"></script>
+</html>
